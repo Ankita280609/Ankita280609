@@ -10,11 +10,3 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankita280609&show_icons=true&theme=radical&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita280609&layout=compact&theme=radical&hide_border=true" width="300" />
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankita280609&theme=radical)
