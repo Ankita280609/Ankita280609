@@ -1,9 +1,5 @@
 # Hi there, I'm Ankita! 👋
 
-### 👩‍💻 About Me:
-- 🎓 **Engineering Student** with an interest in DevOps.
-- 🛠️ Currently building **startup projects** and solving real-world problems.
-- 🔍 Passionate about **Python** and **backend technologies**.
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
