@@ -31,6 +31,7 @@ I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer 
 * Simplifies complex symptom understanding for users through intelligent AI conversation.
 * Streamlines the discovery process for medical specialists, reducing patient wait times.
 * Enhances patient safety through immediate emergency response integration.
+---
 ### Project: Dynova
 
 **Role:** Full Stack Developer
