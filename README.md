@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer with a passion for bridging the gap between complex engineering and intuitive design. My core expertise lies in building AI-integrated full-stack applications, where I combine robust backend logic with user-centric frontend designs (Figma) to deliver scalable, real-world solutions.<br><br>Beyond code, I am an active Open Source Contributor and community leader. I leverage my strong presentation and management skills to host technical workshops and organize university events, ensuring projects run as smoothly as they function.
 
 
@@ -8,12 +8,6 @@ I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer 
 ![](https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ankita280609&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ankita280609&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ankita280609&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankita280609&icon=0&color=0)](https://visitcount.itsvg.in)
