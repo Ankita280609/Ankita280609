@@ -31,6 +31,32 @@ I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer 
 * Simplifies complex symptom understanding for users through intelligent AI conversation.
 * Streamlines the discovery process for medical specialists, reducing patient wait times.
 * Enhances patient safety through immediate emergency response integration.
+### Project: Dynova
+
+**Role:** Full Stack Developer
+**Duration:** Nov 2025
+**Domain:** SaaS | Data Analytics | Form Management
+
+#### Key Contributions
+
+* Engineered a **dynamic form builder application** that allows users to design and customize data collection forms from scratch.
+* Integrated a comprehensive **analytics dashboard** to visualize response data and user engagement metrics.
+* Implemented **structured data tracking**, enabling efficient storage and retrieval of form submissions.
+* Designed a visual interface for managing custom forms, significantly reducing the complexity of data collection campaigns.
+* Optimized database schemas to handle dynamic field generation and varying data structures.
+
+#### Tech Stack
+
+* **Frontend:** React.js
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Architecture:** MERN Stack
+
+#### Impact
+
+* Streamlines the process of creating and deploying custom forms for data collection.
+* Empowers users with actionable insights through real-time visual analytics.
+* Enhances data organization by structuring unstructured form inputs effectively.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ankita280609&theme=dark&hide_border=false)<br/>
@@ -38,6 +64,7 @@ I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ankita280609&icon=0&color=0)](https://visitcount.itsvg.in) 
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
