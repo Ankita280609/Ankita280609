@@ -7,8 +7,8 @@ I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer 
 #Experience:
 ### Project: Sarthi AI
 
-**Role:** Full Stack Developer & Prompt Engineer
-**Duration:** Nov 2025
+**Role:** Full Stack Developer & Prompt Engineer <br>
+**Duration:** Nov 2025 <br>
 **Domain:** Healthcare | Artificial Intelligence | Patient Triage
 
 #### Key Contributions
@@ -34,8 +34,8 @@ I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer 
 ---
 ### Project: Dynova
 
-**Role:** Full Stack Developer
-**Duration:** Nov 2025
+**Role:** Full Stack Developer <br>
+**Duration:** Dec 2025 <br>
 **Domain:** SaaS | Data Analytics | Form Management
 
 #### Key Contributions
