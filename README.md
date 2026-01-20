@@ -84,11 +84,11 @@ Beyond code, I am an active **Open Source Contributor** and community leader. I 
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&count_private=true" alt="Ankita's Stats" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=Ankita280609&theme=dark&hide_border=false" alt="Ankita's Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita280609&theme=dark&hide_border=false&layout=compact" alt="Ankita's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&count_private=true" alt="Ankita's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita280609&theme=dark&hide_border=false" alt="Ankita's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita280609&theme=dark&hide_border=false&layout=compact" alt="Ankita's Top Languages" />
 </p>
 
 ---
