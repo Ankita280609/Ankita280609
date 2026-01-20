@@ -84,17 +84,15 @@ Beyond code, I am an active **Open Source Contributor** and community leader. I 
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ankita's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&count_private=true" alt="Ankita's Stats" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ankita280609&theme=dark&hide_border=false" alt="Ankita's Streak" />
+<img src="https://streak-stats.demolab.com?user=Ankita280609&theme=dark&hide_border=false" alt="Ankita's Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ankita's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita280609&theme=dark&hide_border=false&layout=compact" alt="Ankita's Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ankita280609&icon=0&color=0" alt="Visit Counter" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ankita280609&label=Profile%20Views&color=blue&style=flat" alt="Visit Counter" />
 </p>
