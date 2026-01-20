@@ -63,7 +63,7 @@ I am a 2nd Year B.Tech (AI) Student, MERN Full Stack Developer, and LLM Trainer 
 * Empowers users with actionable insights through real-time visual analytics.
 * Enhances data organization by structuring unstructured form inputs effectively.
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ankita280609&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita280609&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
