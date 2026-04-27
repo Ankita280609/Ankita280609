@@ -1,13 +1,12 @@
 ## About Me
 
-I’m a 2nd Year B.Tech (AI) student focused on **Data Visualization & Analytics (DVA)**. I work with **SQL and Python (Pandas, NumPy)** to transform raw data into clear, actionable insights.
+I’m a 2nd Year B.Tech (AI) student focused on **Data Visualization & Analytics (DVA)**. I work with **SQL and Python (Pandas, NumPy)** to transform raw data into clear, actionable insights through KPI-driven analysis and intuitive visualizations.
 
-My approach is **practical and insight-driven**, with a strong emphasis on data exploration, KPI analysis, and intuitive visualizations.
+Alongside this, I have experience in **MERN stack development** and building **AI/ML-integrated applications**, combining data analysis with scalable full-stack solutions.
 
 I also have exposure to **quantitative research (WorldQuant Gold Level)** and enjoy solving real-world problems using data.
 
 Open to collaboration and impactful data projects.
-
 ---
 
 ## 💻 Tech Stack:
