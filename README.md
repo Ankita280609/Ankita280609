@@ -27,7 +27,7 @@ Open to collaboration and impactful data projects.
 
 ## Experience:
 
-### Project: Retail Order Prioritization Dashboard
+## Project: Retail Order Prioritization Dashboard
 
 **Role:** Data Analyst & Dashboard Developer
 **Duration:** Feb 2026
@@ -52,6 +52,8 @@ Conducted category-wise performance analysis to evaluate revenue distribution an
 * Provided clear revenue distribution insights, highlighting concentration across customers and categories.
 * Improved business decision-making through KPI-driven analytics such as AOV and revenue share.
 * Delivered a scalable framework for retail analytics, transforming raw transactional data into actionable insights.
+
+---
 
 ## Project: Video Game Sales Analysis
 
@@ -82,9 +84,11 @@ Conducted category-wise performance analysis to evaluate revenue distribution an
 - Provides **data-driven insights into global gaming trends**, identifying top-performing genres and platforms.  
 - Enables **clear understanding of regional market dynamics** and revenue distribution.  
 - Highlights **high-performing games and categories** for strategic analysis.  
-- Establishes a **scalable framework for exploratory data analysis** on real-world datasets.  
+- Establishes a **scalable framework for exploratory data analysis** on real-world datasets.
 
-### Project: Sarthi AI
+---
+
+## Project: Sarthi AI
 
 **Role:** Full Stack Developer & Prompt Engineer <br>
 **Duration:** Nov 2025 <br>
@@ -113,7 +117,7 @@ Conducted category-wise performance analysis to evaluate revenue distribution an
 
 ---
 
-### Project: Dynova
+## Project: Dynova
 
 **Role:** Full Stack Developer <br>
 **Duration:** Dec 2025 <br>
