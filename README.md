@@ -1,7 +1,12 @@
-# About Me:
-I am a 2nd Year B.Tech (AI) Student, **MERN Full Stack Developer**, and **LLM Trainer** with a passion for bridging the gap between complex engineering and intuitive design. My core expertise lies in building **AI-integrated full-stack applications**, where I combine robust backend logic with user-centric frontend designs (Figma) to deliver scalable, real-world solutions.
+## About Me
 
-Beyond code, I am an active **Open Source Contributor** and community leader. I leverage my strong presentation and management skills to host technical workshops and organize university events, ensuring projects run as smoothly as they function.
+I’m a 2nd Year B.Tech (AI) student focused on **Data Visualization & Analytics (DVA)**. I work with **SQL and Python (Pandas, NumPy)** to transform raw data into clear, actionable insights.
+
+My approach is **practical and insight-driven**, with a strong emphasis on data exploration, KPI analysis, and intuitive visualizations.
+
+I also have exposure to **quantitative research (WorldQuant Gold Level)** and enjoy solving real-world problems using data.
+
+Open to collaboration and impactful data projects.
 
 ---
 
@@ -49,42 +54,36 @@ Conducted category-wise performance analysis to evaluate revenue distribution an
 * Improved business decision-making through KPI-driven analytics such as AOV and revenue share.
 * Delivered a scalable framework for retail analytics, transforming raw transactional data into actionable insights.
 
-# Video Game Sales Analysis Dashboard
+## Project: Video Game Sales Analysis
 
-## Role
-**Data Analyst & Visualization Engineer**
+**Role:** Data Analyst & Visualization Engineer  
+**Duration:** Jan 2026  
+**Domain:** Data Analytics | Exploratory Data Analysis | Market Intelligence  
 
-## Duration
-April 2026 
+### Key Contributions
 
-## Domain
-Data Analytics | Exploratory Data Analysis | Market Intelligence  
-
-## Key Contributions
-
-- Performed **end-to-end exploratory data analysis (EDA)** on a large-scale video game sales dataset (~16,000+ records) to uncover global market trends.  
+- Performed end-to-end **exploratory data analysis (EDA)** on a large-scale video game sales dataset (~16,000+ records) to uncover global market trends.  
 - Analyzed **regional sales distribution (NA, EU, JP, Others)** to identify geographic demand patterns and key revenue drivers.  
 - Built **global sales metrics and derived features** to evaluate overall game performance across platforms and genres.  
 - Conducted **genre-wise and platform-based analysis** to identify the most profitable segments in the gaming industry.  
 - Developed **correlation analysis** to understand relationships between regional sales and total global sales.  
 - Implemented **data preprocessing pipelines** including handling missing values, data transformation, and feature engineering.  
-- Created **insightful visualizations and statistical summaries** for better interpretability of trends and patterns.  
-- Designed **dynamic filtering and ranking logic** to extract top-performing games based on multiple criteria.
-  
-## Tech Stack
+- Created **visualizations and statistical summaries** to present insights in a structured and interpretable format.  
+- Designed **filtering and ranking logic** to extract top-performing games based on multiple criteria.  
+
+### Tech Stack
 
 - **Data Processing:** Python, Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Environment:** Jupyter Notebook  
-- **Dataset:** Video Game Sales Dataset (Kaggle / VGChartz-based)  
+- **Dataset:** Video Game Sales Dataset  
 
-## Impact
+### Impact
 
-- Enabled **data-driven insights into global gaming trends**, identifying top-performing genres and platforms.  
-- Provided **clear visibility into regional market behavior**, supporting strategic analysis.  
-- Identified **high-revenue segments and performance patterns** across different game categories.  
-- Built a **scalable EDA framework** for analyzing large real-world datasets efficiently.
----
+- Provides **data-driven insights into global gaming trends**, identifying top-performing genres and platforms.  
+- Enables **clear understanding of regional market dynamics** and revenue distribution.  
+- Highlights **high-performing games and categories** for strategic analysis.  
+- Establishes a **scalable framework for exploratory data analysis** on real-world datasets.  
 
 ### Project: Sarthi AI
 
