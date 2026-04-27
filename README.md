@@ -23,6 +23,69 @@ Beyond code, I am an active **Open Source Contributor** and community leader. I 
 
 ## Experience:
 
+### Project: Retail Order Prioritization Dashboard
+
+**Role:** Data Analyst & Dashboard Developer
+**Duration:** Feb 2026
+**Domain:** Data Analytics | Retail Intelligence | Business Optimization
+
+#### Key Contributions
+* Designed and developed a data-driven order prioritization dashboard using a structured retail transaction dataset (~12,600 records).
+Performed revenue concentration analysis to identify high-impact transactions and top revenue-contributing customers.
+* Built customer value segmentation models to analyze spending behavior across 25 unique customers.
+Conducted category-wise performance analysis to evaluate revenue distribution and purchasing trends across 8 product categories.
+* Analyzed pricing and quantity behavior to identify patterns influencing total transaction value.
+* Evaluated channel and payment insights by comparing Online vs In-store performance and payment method trends.
+* Implemented data cleaning pipelines including handling missing values, validating transaction consistency, and outlier detection.
+* Defined and structured key KPIs such as AOV, High-Value Contribution %, Revenue Share, and operational metrics for decision-making.
+#### Tech Stack
+* **Data Processing:** Python, Pandas, NumPy
+* **Visualization:** Tableau / Matplotlib / Seaborn
+* **Tools:** Excel, Google Sheets (Pivot Tables, KPI dashboards)
+* **Data Source:** Kaggle – Retail Store Sales Dataset
+#### Impact
+* Enabled identification of high-value transactions, improving strategic order prioritization decisions.
+* Provided clear revenue distribution insights, highlighting concentration across customers and categories.
+* Improved business decision-making through KPI-driven analytics such as AOV and revenue share.
+* Delivered a scalable framework for retail analytics, transforming raw transactional data into actionable insights.
+
+# Video Game Sales Analysis Dashboard
+
+## Role
+**Data Analyst & Visualization Engineer**
+
+## Duration
+April 2026 
+
+## Domain
+Data Analytics | Exploratory Data Analysis | Market Intelligence  
+
+## Key Contributions
+
+- Performed **end-to-end exploratory data analysis (EDA)** on a large-scale video game sales dataset (~16,000+ records) to uncover global market trends.  
+- Analyzed **regional sales distribution (NA, EU, JP, Others)** to identify geographic demand patterns and key revenue drivers.  
+- Built **global sales metrics and derived features** to evaluate overall game performance across platforms and genres.  
+- Conducted **genre-wise and platform-based analysis** to identify the most profitable segments in the gaming industry.  
+- Developed **correlation analysis** to understand relationships between regional sales and total global sales.  
+- Implemented **data preprocessing pipelines** including handling missing values, data transformation, and feature engineering.  
+- Created **insightful visualizations and statistical summaries** for better interpretability of trends and patterns.  
+- Designed **dynamic filtering and ranking logic** to extract top-performing games based on multiple criteria.
+  
+## Tech Stack
+
+- **Data Processing:** Python, Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Environment:** Jupyter Notebook  
+- **Dataset:** Video Game Sales Dataset (Kaggle / VGChartz-based)  
+
+## Impact
+
+- Enabled **data-driven insights into global gaming trends**, identifying top-performing genres and platforms.  
+- Provided **clear visibility into regional market behavior**, supporting strategic analysis.  
+- Identified **high-revenue segments and performance patterns** across different game categories.  
+- Built a **scalable EDA framework** for analyzing large real-world datasets efficiently.
+---
+
 ### Project: Sarthi AI
 
 **Role:** Full Stack Developer & Prompt Engineer <br>
